@@ -125,3 +125,8 @@ This framework can be extended to use real-time player statistics and larger dat
 
 Stanford CS229 Project Report (2019):
 Predicting NBA Game Outcomes Using Player Chemistry
+=======
+
+# NBA_Game_Prediction_Player_Chemistry_19
+
+ML mini project 2025-26
